@@ -1,6 +1,6 @@
 # Alumni Association Platform – Lovely Professional University
 
-A comprehensive web and mobile application designed to foster lifelong connections among alumni, facilitate networking, mentorship, and philanthropic support for the College.
+A comprehensive web application designed to foster lifelong connections among alumni, facilitate networking, mentorship, and philanthropic support for the College.
 
 ## 📌 Features
 
@@ -15,7 +15,7 @@ A comprehensive web and mobile application designed to foster lifelong connectio
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
 - **Version Control**: Git
@@ -63,3 +63,12 @@ Alumni-Portal/
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/05fb497e-a8f4-43b0-b02c-91b68886f295)
+
+![image](https://github.com/user-attachments/assets/643d1ed7-14cd-4183-ad62-c8dcd46a0842)
+
+![image](https://github.com/user-attachments/assets/142d10e9-2848-4f34-9978-9aa796dce2a9)
+
+![image](https://github.com/user-attachments/assets/6079ae7a-787c-47d1-82ae-8b7ca8b95dc1)
+
+![image](https://github.com/user-attachments/assets/157db84a-c687-47c8-b61d-4e8732109fb2)
