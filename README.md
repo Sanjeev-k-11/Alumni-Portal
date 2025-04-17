@@ -1,6 +1,6 @@
-# Alumni Association Platform – Government Engineering College
+# Alumni Association Platform – Lovely Professional University
 
-A comprehensive web and mobile application designed to foster lifelong connections among alumni, facilitate networking, mentorship, and philanthropic support for the Government Engineering College.
+A comprehensive web and mobile application designed to foster lifelong connections among alumni, facilitate networking, mentorship, and philanthropic support for the College.
 
 ## 📌 Features
 
@@ -26,83 +26,40 @@ The project is organized into the following directories:
 
 ```
 Alumni-Portal/
-├── css/                 # Stylesheets
-├── js/                  # JavaScript files
-├── images/              # Image assets
-├── includes/            # PHP includes (e.g., header, footer)
-├── pages/               # Individual page templates
-├── config/              # Configuration files (e.g., database connections)
-├── index.php            # Main entry point
-└── README.md            # Project documentation
+    ├── README.md
+    ├── about.html
+    ├── banner.php
+    ├── change.php
+    ├── change_password.php
+    ├── connect.php
+    ├── connectAlumni.php
+    ├── dashboard.php
+    ├── db_connect.php
+    ├── DonationPortal.php
+    ├── elite.php
+    ├── EventsReunions.php
+    ├── faq.php
+    ├── feedback_form.php
+    ├── fetch_data.php
+    ├── footer.php
+    ├── gallery.php
+    ├── header1.php
+    ├── homepage.php
+    ├── index.php
+    ├── JobPortal.php
+    ├── logout.php
+    ├── NetworkingHub.php
+    ├── nomination.php
+    ├── onlinecourse.php
+    ├── register.php
+    ├── register1.php
+    ├── requestMentorship.php
+    ├── submit_feedback.php
+    ├── SuccessStories.php
+    ├── update_user.php
+    └── images/
+
 ```
-
-## 🚀 Installation
-
-To set up the project locally:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://gitingest.com/Sanjeev-k-11/Alumni-Portal.git
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd Alumni-Portal
-   ```
-
-3. **Set up the database:**
-
-   - Create a MySQL database.
-   - Import the provided SQL file (`database.sql`) into your MySQL database.
-
-4. **Configure the application:**
-
-   - Update the database configuration in `config/db.php` with your database credentials.
-
-5. **Run the application:**
-
-   - Start your local server (e.g., XAMPP, WAMP).
-   - Navigate to `http://localhost/Alumni-Portal/` in your web browser.
 
 ## 📸 Screenshots
 
-*Include relevant screenshots of the application here.*
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a new branch:**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit your changes:**
-
-   ```bash
-   git commit -m 'Add YourFeature'
-   ```
-
-4. **Push to the branch:**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a pull request**
-
-## 📄 License
-
-*Specify the license under which the project is distributed.*
-
-## 📧 Contact
-
-For any inquiries or feedback, please contact:
-
-- **Name**: Sanjeev Kumar
-- **Email**: [supercoders.tech@gmail.com](mailto:supercoders.tech@gmail.com)
-- **GitHub**: [@Sanjeev-k-11](https://github.com/Sanjeev-k-11)
