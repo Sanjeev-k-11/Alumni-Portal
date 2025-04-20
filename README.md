@@ -72,3 +72,5 @@ Alumni-Portal/
 ![image](https://github.com/user-attachments/assets/6079ae7a-787c-47d1-82ae-8b7ca8b95dc1)
 
 ![image](https://github.com/user-attachments/assets/157db84a-c687-47c8-b61d-4e8732109fb2)
+![Screenshot 2025-04-20 211258](https://github.com/user-attachments/assets/3b7e7617-4760-451a-b25d-6b6a6ef3f6f1)
+
