@@ -20,6 +20,10 @@ A comprehensive web application designed to foster lifelong connections among al
 - **Database**: MySQL
 - **Version Control**: Git
 
+  ## 📸 Preview
+
+![Alumni Portal Preview]  (http://lpualumnik23df.infy.uk/)
+
 ## 📁 Project Structure
 
 The project is organized into the following directories:
